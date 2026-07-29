@@ -1,4 +1,4 @@
-\# CML2 Project
+# CML2 Project
 
 
 
@@ -8,11 +8,11 @@ My simple project and self practise
 
 
 
-\## Labs
+## Labs
 
-\- Enterprise network topology
+- Enterprise network topology
 
-\- Routing experiments
+- Routing experiments
 
-\- Switching configurations
+- Switching configurations
 
